@@ -1,9 +1,11 @@
 /* Select all columns and style them so we can see them */
 
 [class*="col-"]{
-  height:75px;
   border:2px solid red;
   border-radius:12px;
+  text-align: center;
+  padding:20px;
+
 }
 
 /* A handful of background colors for differentiating columns */
